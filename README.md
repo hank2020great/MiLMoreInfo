@@ -26,7 +26,7 @@ This repository provides updated materials for our ICML 2026 submission in respo
 - **Ablation study (Suppl. I):** Wilcoxon signed-rank tests confirm each PTC component contributes significantly.
 - **New synthetic validation (Suppl. X):** The 'Poisoned Spiral' experiment independently verifies both LH-P conditions (C1 and C2).
 - **New Figure on Synthetic Validation of LH-P Theory and MiL. See  Figure 3**
-- **New SOTA comparison:** We add a new subsection: `\subsection{Comparing MiL with Recent Small-Sample SOTA Models}` in paper. MiL is benchmarked against the latest small-sample foundation models — **TabPFN** (*Nature* 2025) and **TabLLM** (AISTAT 2023). MiL statistically outperforms both (sign test: p = 0.004 vs TabPFN; p = 0.00003 vs TabLLM). Both foundation models suffer majority-class collapse on imbalanced LH-Ps, while MiL achieves 100% minority sensitivity.
+- **New SOTA impelementations:** We add a new subsection: `\subsection{Comparing MiL with Recent Small-Sample SOTA Models}` in paper. MiL is benchmarked against the latest small-sample foundation models — **TabPFN** (*Nature* 2025) and **TabLLM** (AISTAT 2023). MiL statistically outperforms both (sign test: p = 0.004 vs TabPFN; p = 0.00003 vs TabLLM). Both foundation models suffer majority-class collapse on imbalanced LH-Ps, while MiL achieves 100% minority sensitivity.
 - **New Figure for SC-let (an extension of MiL for large vision data): Figure 5**
 - **New subsection: Extending MiL to handle large scale vision data: Tiny ImageNet data (00 classes, 100,000 training images, 64 × 64 resolution) and its results on SC-let is added besides the original CIFAR100 data.**
   **New Tables: table 3 and Table 4**
