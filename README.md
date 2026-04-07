@@ -30,7 +30,7 @@ This repository provides updated materials for our ICML 2026 submission in respo
 - **New Figure for SC-let (an extension of MiL for large vision data): Figure 5**
 - **New subsection: Extending MiL to handle large scale vision data: Tiny ImageNet data (00 classes, 100,000 training images, 64 × 64 resolution) and its results on SC-let is added besides the original CIFAR100 data.**
   **New Tables: table 3 and Table 4**
-- **New Figure to compare MiL MiL against a global RBF SVM on the complete Poisoned Spiral (N = 2,250, LHI=1.00). (See Figure 8 in the updatd paper)**
+- **New Figure to compare MiL against a global RBF SVM on the complete Poisoned Spiral (N = 2,250, LHI=1.00). (See Figure 8 in the updatd paper)**
   
 
 ---
